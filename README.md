@@ -4,7 +4,7 @@
 
 We used Cozmo robots in this experiment: https://anki.com/en-us/cozmo.html
 
-Demo video: https://drive.google.com/file/d/1cFGPe4bpJwAA4H3G-FKqR77Ihq5G-77j/view?usp=sharing
+For a video demo see ComzmoDemo_Anon.mp4
 
 <!---Short demo video: https://drive.google.com/open?id=1GiJjCC225EW3A8WkiVZ1xQLVg0RGZ3PJ -->
 
