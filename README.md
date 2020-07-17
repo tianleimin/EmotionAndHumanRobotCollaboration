@@ -4,6 +4,6 @@
 
 We used Cozmo robots in this experiment: https://anki.com/en-us/cozmo.html
 
-Short demo video: https://drive.google.com/open?id=1GiJjCC225EW3A8WkiVZ1xQLVg0RGZ3PJ
+Short demo video: https://youtu.be/bQ8_tBvg5dI
 
-Long demo video: https://drive.google.com/open?id=1KCRXj3YyUvXxLsrDXMGanmsCSBgSDOVB
+Long demo video: https://youtu.be/00YXN0hwKX4
