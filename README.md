@@ -8,7 +8,7 @@ Short demo video: https://youtu.be/bQ8_tBvg5dI
 
 Long demo video: https://youtu.be/00YXN0hwKX4
 
-Paper:
+Paper: http://ro-man2020.unina.it/full-papers.php
 
 ```latex
 @inproceedings{zhou2020would,
